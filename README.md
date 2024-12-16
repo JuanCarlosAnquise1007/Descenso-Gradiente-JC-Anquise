@@ -1,0 +1,1 @@
+# Descenso-Gradiente-JC-Anquise
